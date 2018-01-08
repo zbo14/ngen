@@ -1,0 +1,7 @@
+[package]
+name = "ngen"
+version = "0.1.0"
+authors = ["Zachary Balder"]
+
+[dependencies]
+rand = "0.4"
